@@ -1857,7 +1857,7 @@
         "window": {
           "pin": "置顶",
           "pinned": "已置顶",
-          "opacity": "窗口透明度",
+          "opacity": "窗口不透明度",
           "original_show": "显示原文",
           "original_hide": "隐藏原文",
           "original_copy": "复制原文",

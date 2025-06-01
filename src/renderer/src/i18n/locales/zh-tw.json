@@ -1857,7 +1857,7 @@
         "window": {
           "pin": "置頂",
           "pinned": "已置頂",
-          "opacity": "視窗透明度",
+          "opacity": "視窗不透明度",
           "original_show": "顯示原文",
           "original_hide": "隱藏原文",
           "original_copy": "複製原文",

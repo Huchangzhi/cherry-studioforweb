@@ -1857,7 +1857,7 @@
         "window": {
           "pin": "最前面に固定",
           "pinned": "固定中",
-          "opacity": "ウィンドウの透過度",
+          "opacity": "ウィンドウの不透明度",
           "original_show": "原文を表示",
           "original_hide": "原文を非表示",
           "original_copy": "原文をコピー",
